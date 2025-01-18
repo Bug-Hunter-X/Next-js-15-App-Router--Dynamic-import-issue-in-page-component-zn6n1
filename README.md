@@ -1,0 +1,3 @@
+# Next.js 15 App Router: Dynamic Import Issue in Page Component
+
+This repository demonstrates a problem encountered with dynamic imports within page components in Next.js 15's App Router.  The issue occurs when using dynamic imports to load components conditionally, potentially resulting in unexpected rendering behavior or errors. The original code, `bug.js`, reproduces this issue. The solution, `bugSolution.js`, presents an alternative approach that resolves the problem.  This is a simplified example to highlight the core issue, adapted from the full Next.js application.
